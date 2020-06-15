@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/13347548/84572387-82f52f80-add4-11ea-831c-4ba000afc735.png)
 
-<center><a href="https://www.youtube.com/watch?v=V9AGvwPmnZU">지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지</a></center>
+<p align="center"><a href="https://www.youtube.com/watch?v=V9AGvwPmnZU">지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지</a></p>
 
 ---
 
@@ -67,7 +67,7 @@
 
 ![image](https://user-images.githubusercontent.com/13347548/84588612-e37f7d80-ae63-11ea-8c7a-29a4d790c741.png)
 
-<center>글을 읽고 질문해준 크루도 있었고, 제 글을 첨삭해준 크루도 있었어요!</center>
+<p align="center">글을 읽고 질문해준 크루도 있었고, 제 글을 첨삭해준 크루도 있었어요!</p>
 
 ---
 
@@ -94,7 +94,7 @@
 
 ![image](https://user-images.githubusercontent.com/13347548/84589312-994ccb00-ae68-11ea-872b-1b502a496534.png)
 
-<center><a href="https://jojoldu.tistory.com/302">잘됐던 스터디 유형</a></center>
+<p align="center"><a href="https://jojoldu.tistory.com/302">잘됐던 스터디 유형</a></p>
 
 ---
 
