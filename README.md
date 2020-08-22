@@ -1,7 +1,7 @@
 # woowa-writing-2
 
 ## 3차 미션을 끝내며
-<br><br>
+<br>
 팀 프로젝트.
 <br><br>
 
