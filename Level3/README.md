@@ -34,7 +34,9 @@
  Backend는 다 함께 Frontend는 저를 제외한 팀원들이 함께 개발하고 있는데, 각자 자신의 메인 파트를 하나 이상씩 책임지고 진행하여 이만큼 완성할 수 있었네요!
 
  Spring Security와 전반적인 Infra(Travis, Web-Was 적용 등)를 메인으로 담당한 **갓라흐**,
+ 
  AWS S3와 Frontend(React - 특히 Material-UI)를 메인으로 담당한 **빛봉**,
+ 
  Spring Security와 Frontend(React)를 메인으로 담당한 **여제히히**
 
  소중한 팀원들 모두 고맙습니다. 고생 많으셨고, 마무리도 아름답게 맺는 **이따비팀**이 됩시다!
