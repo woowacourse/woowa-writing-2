@@ -2,4 +2,5 @@
 .idea
 woowa-writing-2.iml
 README.md
-level1.md
+.gitignore
+.DS_Store
