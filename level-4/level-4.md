@@ -45,3 +45,10 @@
 달콤한 취기를 느끼며 하루를 마감하고 싶기에 [Memory Leak](https://github.com/cocktails-for-programmers/cocktails_for_programmers/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%B9%B5%ED%85%8C%EC%9D%BC.md#memory-leak) 이라는 칵테일을 한 잔. 
 브라우니와 즐겁게 이야기를 나누다 보니 밤이 아쉬운 사람들이 하나둘 들어오고 덕분에 바 안은 북적북적. 
 언제까지 자리를 차지하고 앉아 있을 수 없기에 빈 잔을 뒤로하고 철제문을 열고 나온다.
+
+<br>
+<hr>  
+<br>
+
+바 사진 출처 : https://unsplash.com/photos/V12QmVEMXlU  
+칵테일 사진 출처 : https://www.beveragenews.co.kr/news_cocktail/1847
