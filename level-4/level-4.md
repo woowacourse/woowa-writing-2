@@ -33,7 +33,7 @@
 
 <br>
 <div align="center" style="display:flex;">
-    <img src="./images/pousse-cafe.png" width="200" alt="pousse-cafe"/>
+    <img src="./images/pousse-cafe.png" width="238" alt="pousse-cafe"/>
 </div>
 <br>
 
