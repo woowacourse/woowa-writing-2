@@ -8,7 +8,7 @@
 
 <br>
 <div align="center" style="display:flex;">
-    <img src="./images/bar.jpg" width="500" alt="bar"/>
+    <img src="./images/bar.jpg" width="640" alt="bar"/>
 </div>
 <br>
 
