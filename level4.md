@@ -10,7 +10,7 @@
 
 10개월동안 수고 많았습니다 레베카!
 
-<div style="text-align: right"> 2020년 10월의 끝자락에서 </div>
+<div style="text-align: right"> 2020년 10월의 끝자락에서 서주원 씀.</div>
 
 ---
 
